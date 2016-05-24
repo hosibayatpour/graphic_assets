@@ -1,4 +1,5 @@
 # graphic_assets
 icons and etc
-Hosi's graphic assets for UI development
+Hosi graphic assets for UI development
 All rights reserved.
+2016
